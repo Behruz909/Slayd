@@ -862,7 +862,7 @@ const AUTHORS_DATA = [
     color:      "#C8992A",
     colorDark:  "#8A6510",
     initials:   "IF",            // ← ism va familiyaning birinchi harflari
-    about:      "Bu yerga o'quvchi haqida qisqacha ma'lumot yozing — qiziqishlari, yutuqlari va kelajakdagi maqsadlari.",
+    // about:      "Bu yerga o'quvchi haqida qisqacha ma'lumot yozing — qiziqishlari, yutuqlari va kelajakdagi maqsadlari.",
     achievements: [
       // "Matematika olimpiadasi — g'olib",
       // "Dasturlash kursi — sertifikat",
@@ -883,7 +883,7 @@ const AUTHORS_DATA = [
     color:      "#1A7DC8",
     colorDark:  "#0F5A92",
     initials:   "IF",            // ← o'zgartiring
-    about:      "Bu yerga ikkinchi o'quvchi haqida qisqacha ma'lumot yozing — qiziqishlari, yutuqlari va kelajakdagi maqsadlari.",
+    // about:      "Bu yerga ikkinchi o'quvchi haqida qisqacha ma'lumot yozing — qiziqishlari, yutuqlari va kelajakdagi maqsadlari.",
     achievements: [
       // "Ingliz tili — xalqaro sertifikat",
       // "Maktab gazetasi muharriri",
