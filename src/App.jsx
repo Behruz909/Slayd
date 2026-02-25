@@ -858,7 +858,7 @@ const AUTHORS_DATA = [
     grade:      "11B - sinf",     // ← o'zgartiring, masalan: "9 - A sinf"
     school:     "12 - maktab",   // ← o'zgartiring, masalan: "14 - maktab"
     city:       "Chirchiq Shahar Maktabgacha va Maktab bolimiga qarashli",  // ← o'zgartiring
-    role:       "Loyiha rahbari",
+    // role:       "Loyiha rahbari",
     color:      "#C8992A",
     colorDark:  "#8A6510",
     initials:   "IF",            // ← ism va familiyaning birinchi harflari
@@ -879,7 +879,7 @@ const AUTHORS_DATA = [
     grade:      "11B - sinf",     // ← o'zgartiring
     school:     "12 - maktab",   // ← o'zgartiring
     city:       "Chirchiq Shahar Maktabgacha va Maktab bolimiga qarashli",  // ← o'zgartiring
-    role:       "Loyiha ishtirokchisi",
+    // role:       "Loyiha ishtirokchisi",
     color:      "#1A7DC8",
     colorDark:  "#0F5A92",
     initials:   "IF",            // ← o'zgartiring
