@@ -852,8 +852,8 @@ const ProgressBar = ({ pct, accent }) => {
 const AUTHORS_DATA = [
   {
     id: 1,
-    firstName:  "Afruz",           // ← o'zgartiring
-    lastName:   "Baxtiyorov",      // ← o'zgartiring
+    firstName:  "Bexruz",           // ← o'zgartiring
+    lastName:   "Ahmedov",      // ← o'zgartiring
     // middleName: "Otasining ismi",// ← o'zgartiring
     grade:      "11B - sinf",     // ← o'zgartiring, masalan: "9 - A sinf"
     school:     "12 - maktab",   // ← o'zgartiring, masalan: "14 - maktab"
@@ -871,27 +871,27 @@ const AUTHORS_DATA = [
     // subjects:   "Matematika, Informatika",
     // hobby:      "Dasturlash, Robotexnika",
   },
-  {
-    id: 2,
-    firstName:  "Behruz",           // ← o'zgartiring
-    lastName:   "Ahmedov",      // ← o'zgartiring
-    // middleName: "Otasining ismi",// ← o'zgartiring
-    grade:      "11B - sinf",     // ← o'zgartiring
-    school:     "12 - maktab",   // ← o'zgartiring
-    city:       "Chirchiq Shahar Maktabgacha va Maktab bolimiga qarashli",  // ← o'zgartiring
-    // role:       "Loyiha ishtirokchisi",
-    color:      "#1A7DC8",
-    colorDark:  "#0F5A92",
-    initials:   "IF",            // ← o'zgartiring
-    // about:      "Bu yerga ikkinchi o'quvchi haqida qisqacha ma'lumot yozing — qiziqishlari, yutuqlari va kelajakdagi maqsadlari.",
-    achievements: [
-      // "Ingliz tili — xalqaro sertifikat",
-      // "Maktab gazetasi muharriri",
-      // "Sport musobaqasi — 2-o'rin",
-    ],
-    // subjects:   "Ingliz tili, Tarix",
-    // hobby:      "Jurnalistika, Sport",
-  },
+  // {
+  //   id: 2,
+  //   firstName:  "Behruz",           // ← o'zgartiring
+  //   lastName:   "Ahmedov",      // ← o'zgartiring
+  //   // middleName: "Otasining ismi",// ← o'zgartiring
+  //   grade:      "11B - sinf",     // ← o'zgartiring
+  //   school:     "12 - maktab",   // ← o'zgartiring
+  //   city:       "Chirchiq Shahar Maktabgacha va Maktab bolimiga qarashli",  // ← o'zgartiring
+  //   // role:       "Loyiha ishtirokchisi",
+  //   color:      "#1A7DC8",
+  //   colorDark:  "#0F5A92",
+  //   initials:   "IF",            // ← o'zgartiring
+  //   // about:      "Bu yerga ikkinchi o'quvchi haqida qisqacha ma'lumot yozing — qiziqishlari, yutuqlari va kelajakdagi maqsadlari.",
+  //   achievements: [
+  //     // "Ingliz tili — xalqaro sertifikat",
+  //     // "Maktab gazetasi muharriri",
+  //     // "Sport musobaqasi — 2-o'rin",
+  //   ],
+  //   // subjects:   "Ingliz tili, Tarix",
+  //   // hobby:      "Jurnalistika, Sport",
+  // },
 ];
 
 // ───────────────────────────────────────────────────────────────────────────────
